@@ -17,3 +17,8 @@ npm run serve
 ```
 npm run build
 ```
+
+## online demo
+https://asif2k.github.io/portfolio/memcard/#/
+
+![memcard](https://user-images.githubusercontent.com/40750463/116446338-49080d00-a870-11eb-9e4a-5c55b0d352ad.jpg)
